@@ -20,7 +20,7 @@ Players are expected to act with integrity, display consideration for others, an
 
 ## 2.1 Definition of a Vehicle:
 
-A vehicle is any self-propelled transport mechanism, designed for land, water, or air use, with an intended capability for human operation. This includes, but is not limited to, cars, trucks, motorcycles, boats, aircraft, ATVs, snowmobiles, jet skis, construction vehicles, hovercrafts, and amphibious vehicles.  Trailers, carriages, miniatures, and models are excluded.
+A vehicle is any self-propelled transport mechanism, designed for land, water, or air use, with an intended capability for human operation. This includes, but is not limited to, cars, trucks, motorcycles, boats, aircraft, trains, ATVs, snowmobiles, jet skis, construction vehicles, hovercrafts, and amphibious vehicles.  Trailers, carriages, miniatures, and models are excluded.
 
 ## 2.2. Classes of Vehicles: 
 
@@ -167,6 +167,7 @@ If a player is unable to accurately identify a vehicle's class or type but still
 If the view of a vehicle is obstructed, but enough of the vehicle can be seen to reasonably deduce its class or type, then it may still be claimed. The referee has the final say in whether or not a vehicle was identifiable.
 
 ## 7.3 Preemptive Spotting:
+
 Players are not permitted to claim a spot based on prior knowledge or expectation of a vehicle's location from previous games. Spotting a vehicle must always be based on direct observation during the current game. Any preemptive claims will be considered invalid.
 
 ## 7.4 Multiple Spottings of Same Vehicle:
@@ -177,7 +178,11 @@ In the event the same vehicle is spotted by a player multiple times during a gam
 
 In the event of a parade or convoy of vehicles, each identifiable vehicle may be claimed separately if they belong to different classes or subclasses of vehicles. However, if they belong to the same class or subclass, the 'home' rule applies.
 
-## 7.6 Non-operational Vehicles:
+## 7.6 Trains:
+
+Train cars that are connected to a locomotive are eligible for claiming. Trains composed of three or more cars within the same classification may be recognized as a "home". Upon claiming a train as either a single vehicle or a home, it cannot be claimed again, even if it incorporates additional cars from a different class. Unconnected train cars, without attachment to a locomotive, are classified as trailers and are ineligible for claiming.
+
+## 7.7 Non-operational Vehicles:
 
 Vehicles do not have to be operational or in motion to be claimed. This includes but is not limited to decommissioned vehicles, vehicles being towed, and vehicles on display.
 
